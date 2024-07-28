@@ -1,38 +1,134 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background: #9f4aff;
+  height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+  user-select: none;
+  flex-direction: column;
+}
+
+.App .container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+  height: 23rem;
+  width: 45rem;
+  border-radius: 8px;
+  padding: 20px;
+  position: relative;
+}
+
+
+.container .content {
+  width: 28rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 10px;
+  gap: 20px;
+  flex-direction: column;
+}
+
+.container .alpha-btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  width: 26rem;
+}
+
+.container .content .btn-active,
+.container .content .btn {
+  background-color: #9f4aff;
   color: white;
+  font-weight: bolder;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 15px;
 }
 
-.App-link {
-  color: #61dafb;
+.container .content .btn:hover {
+  background-color: #333;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.container .content .btn-active {
+  background-color: #5a2992;
+}
+
+.container .content .guess-div {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 0;
+}
+
+.container .content .unguessed,
+.container .content .guessed {
+  width: 28px;
+  list-style-type: none;
+  text-transform: uppercase;
+  font-weight: bolder;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.container .content .unguessed {
+  border-bottom: 3px solid black;
+  border-radius: 5px;
+}
+
+.content p {
+  margin: 0;
+  font-size: .9rem;
+  text-align: center;
+  color: #333;
+}
+
+.lose-modal {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 60%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lose-modal .modal-content {
+  height: 18rem;
+  width: 21rem;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.restart-btn {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.restart-btn:hover {
+  background-color: #000;
+}
+
+.hangman .restart-svg {
+  position: absolute;
+  top: 23px;
+  left: 23px;
+  cursor: pointer;
 }

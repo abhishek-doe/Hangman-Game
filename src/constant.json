@@ -1,0 +1,647 @@
+[
+  {
+    "question": "The hardest natural substance on Earth?",
+    "correct_answer": "Diamond"
+  },
+  {
+    "question": "The closest planet to the Sun?",
+    "correct_answer": "Mercury"
+  },
+  {
+    "question": "A type of wine made from green grapes?",
+    "correct_answer": "Chardonnay"
+  },
+  {
+    "question": "The smallest bone in the human body?",
+    "correct_answer": "Stapes"
+  },
+  {
+    "question": "The only continent located in all four hemispheres?",
+    "correct_answer": "Africa"
+  },
+  {
+    "question": "The most abundant gas in Earth’s atmosphere?",
+    "correct_answer": "Nitrogen"
+  },
+  {
+    "question": "The world's largest desert?",
+    "correct_answer": "Antarctic"
+  },
+  {
+    "question": "The first manned mission to land on the Moon?",
+    "correct_answer": "Apollo"
+  },
+  {
+    "question": "The longest river in Europe?",
+    "correct_answer": "Volga"
+  },
+  {
+    "question": "The tallest building in the United States?",
+    "correct_answer": "Willis"
+  },
+  {
+    "question": "A breed of dog known for its herding ability and intelligence?",
+    "correct_answer": "Bordercollie"
+  },
+  {
+    "question": "The primary language spoken in Brazil?",
+    "correct_answer": "Portuguese"
+  },
+  {
+    "question": "The main ingredient in a traditional Caesar salad?",
+    "correct_answer": "Romaine"
+  },
+  {
+    "question": "The capital city of Canada?",
+    "correct_answer": "Ottawa"
+  },
+  {
+    "question": "The famous tower located in Pisa, Italy?",
+    "correct_answer": "Leaning"
+  },
+  {
+    "question": "The process by which plants make their own food?",
+    "correct_answer": "Photosynthesis"
+  },
+  {
+    "question": "A type of cloud associated with thunderstorms?",
+    "correct_answer": "Cumulonimbus"
+  },
+  {
+    "question": "The primary chemical element in the human body?",
+    "correct_answer": "Oxygen"
+  },
+  {
+    "question": "A celestial body that orbits a planet?",
+    "correct_answer": "Moon"
+  },
+  {
+    "question": "The unit of currency used in the United Kingdom?",
+    "correct_answer": "Pound"
+  },
+  {
+    "question": "The capital of Australia?",
+    "correct_answer": "Canberra"
+  },
+  {
+    "question": "The chemical symbol for silver?",
+    "correct_answer": "Ag"
+  },
+  {
+    "question": "The hottest layer of the Earth’s atmosphere?",
+    "correct_answer": "Thermosphere"
+  },
+  {
+    "question": "The longest river in Africa?",
+    "correct_answer": "Nile"
+  },
+  {
+    "question": "A type of seafood known for its high vitamin D content?",
+    "correct_answer": "Salmon"
+  },
+  {
+    "question": "The name of the first artificial Earth satellite?",
+    "correct_answer": "Sputnik"
+  },
+  {
+    "question": "The process by which water turns into vapor?",
+    "correct_answer": "Evaporation"
+  },
+  {
+    "question": "The smallest planet in our solar system?",
+    "correct_answer": "Mercury"
+  },
+  {
+    "question": "A device used to navigate ships at sea?",
+    "correct_answer": "Compass"
+  },
+  {
+    "question": "The study of insects?",
+    "correct_answer": "Entomology"
+  },
+  {
+    "question": "The name of the Greek goddess of wisdom?",
+    "correct_answer": "Athena"
+  },
+  {
+    "question": "A musical instrument with black and white keys?",
+    "correct_answer": "Piano"
+  },
+  {
+    "question": "The primary ingredient in hummus?",
+    "correct_answer": "Chickpeas"
+  },
+  {
+    "question": "The largest organ in the human body?",
+    "correct_answer": "Skin"
+  },
+  {
+    "question": "The color of a flamingo’s feathers?",
+    "correct_answer": "Pink"
+  },
+  {
+    "question": "The chemical symbol for lead?",
+    "correct_answer": "Pb"
+  },
+  {
+    "question": "The closest galaxy to the Milky Way?",
+    "correct_answer": "Andromeda"
+  },
+  {
+    "question": "A popular tropical fruit known for its spiky skin?",
+    "correct_answer": "Pineapple"
+  },
+  {
+    "question": "The only bird that can fly backwards?",
+    "correct_answer": "Hummingbird"
+  },
+  {
+    "question": "A well-known French pastry made from almond dough?",
+    "correct_answer": "Macaron"
+  },
+  {
+    "question": "The capital of Spain?",
+    "correct_answer": "Madrid"
+  },
+  {
+    "question": "The largest island in the world?",
+    "correct_answer": "Greenland"
+  },
+  {
+    "question": "The chemical symbol for mercury?",
+    "correct_answer": "Hg"
+  },
+  {
+    "question": "A famous physicist known for his work on electromagnetism?",
+    "correct_answer": "Faraday"
+  },
+  {
+    "question": "The main character in 'Harry Potter'?",
+    "correct_answer": "Harry"
+  },
+  {
+    "question": "The largest city in Japan by population?",
+    "correct_answer": "Tokyo"
+  },
+  {
+    "question": "The most common gas in Earth's atmosphere?",
+    "correct_answer": "Nitrogen"
+  },
+  {
+    "question": "The artist who painted the 'Starry Night'?",
+    "correct_answer": "Van Gogh"
+  },
+  {
+    "question": "The longest river in South America?",
+    "correct_answer": "Amazon"
+  },
+  {
+    "question": "The hardest natural substance on Earth?",
+    "correct_answer": "Diamond"
+  },
+  {
+    "question": "The smallest planet in the solar system?",
+    "correct_answer": "Mercury"
+  },
+  {
+    "question": "The largest ocean on Earth?",
+    "correct_answer": "Pacific"
+  },
+  {
+    "question": "The planet known as the 'Red Planet'?",
+    "correct_answer": "Mars"
+  },
+  {
+    "question": "The closest star to Earth?",
+    "correct_answer": "Sun"
+  },
+  {
+    "question": "The author of 'Pride and Prejudice'?",
+    "correct_answer": "Austen"
+  },
+  {
+    "question": "The primary color of the sun as seen from Earth?",
+    "correct_answer": "Yellow"
+  },
+  {
+    "question": "The longest running Broadway musical?",
+    "correct_answer": "Phantom"
+  },
+  {
+    "question": "The sport known as 'The Beautiful Game'?",
+    "correct_answer": "Soccer"
+  },
+  {
+    "question": "The national flower of Japan?",
+    "correct_answer": "Cherry"
+  },
+  {
+    "question": "The currency used in Japan?",
+    "correct_answer": "Yen"
+  },
+  {
+    "question": "The process of converting light into energy by plants?",
+    "correct_answer": "Photosynthesis"
+  },
+  {
+    "question": "The inventor of the telephone?",
+    "correct_answer": "Bell"
+  },
+  {
+    "question": "The famous landmark in Paris?",
+    "correct_answer": "Eiffel"
+  },
+  {
+    "question": "The largest mammal in the world?",
+    "correct_answer": "Whale"
+  },
+  {
+    "question": "The smallest country in the world?",
+    "correct_answer": "Vatican"
+  },
+  {
+    "question": "The official language of Brazil?",
+    "correct_answer": "Portuguese"
+  },
+  {
+    "question": "The chemical symbol for potassium?",
+    "correct_answer": "K"
+  },
+  {
+    "question": "The fastest land animal?",
+    "correct_answer": "Cheetah"
+  },
+  {
+    "question": "The ancient city known for its pyramids?",
+    "correct_answer": "Giza"
+  },
+  {
+    "question": "The largest desert in the world?",
+    "correct_answer": "Antarctic"
+  },
+  {
+    "question": "The planet known for its rings?",
+    "correct_answer": "Saturn"
+  },
+  {
+    "question": "The first human to journey into space?",
+    "correct_answer": "Gagarin"
+  },
+  {
+    "question": "The sport with a ball and net, played on ice?",
+    "correct_answer": "Hockey"
+  },
+  {
+    "question": "The longest river in Asia?",
+    "correct_answer": "Yangtze"
+  },
+  {
+    "question": "The element with the symbol 'Fe'?",
+    "correct_answer": "Iron"
+  },
+  {
+    "question": "The chemical symbol for sodium?",
+    "correct_answer": "Na"
+  },
+  {
+    "question": "The planet known as the 'Giant Planet'?",
+    "correct_answer": "Jupiter"
+  },
+  {
+    "question": "The famous Italian painter of the 'Mona Lisa'?",
+    "correct_answer": "Leonardo"
+  },
+  {
+    "question": "The process by which a liquid turns into a gas?",
+    "correct_answer": "Evaporation"
+  },
+  {
+    "question": "The largest living species of shark?",
+    "correct_answer": "Whale"
+  },
+  {
+    "question": "The capital of Egypt?",
+    "correct_answer": "Cairo"
+  },
+  {
+    "question": "The longest river in the United States?",
+    "correct_answer": "Missouri"
+  },
+  {
+    "question": "The most spoken language in the world?",
+    "correct_answer": "English"
+  },
+  {
+    "question": "The main ingredient in sushi?",
+    "correct_answer": "Rice"
+  },
+  {
+    "question": "The capital city of Canada?",
+    "correct_answer": "Ottawa"
+  },
+  {
+    "question": "The famous landmark in London?",
+    "correct_answer": "Big Ben"
+  },
+  {
+    "question": "The chemical symbol for silver?",
+    "correct_answer": "Ag"
+  },
+  {
+    "question": "The largest land animal?",
+    "correct_answer": "Elephant"
+  },
+  {
+    "question": "The tallest mountain in North America?",
+    "correct_answer": "Denali"
+  },
+  {
+    "question": "The author of 'Moby-Dick'?",
+    "correct_answer": "Melville"
+  },
+  {
+    "question": "The name of the red gemstone often used in jewelry?",
+    "correct_answer": "Ruby"
+  },
+  {
+    "question": "The study of human societies and cultures?",
+    "correct_answer": "Anthropology"
+  },
+  {
+    "question": "The famous space telescope launched in 1990?",
+    "correct_answer": "Hubble"
+  },
+  {
+    "question": "The capital of Italy?",
+    "correct_answer": "Rome"
+  },
+  {
+    "question": "The national sport of South Korea?",
+    "correct_answer": "Taekwondo"
+  },
+  {
+    "question": "The chemical symbol for carbon?",
+    "correct_answer": "C"
+  },
+  {
+    "question": "The largest volcano in the solar system?",
+    "correct_answer": "Olympus"
+  },
+  {
+    "question": "The main component of Earth's core?",
+    "correct_answer": "Iron"
+  },
+  {
+    "question": "The currency used in India?",
+    "correct_answer": "Rupee"
+  },
+  {
+    "question": "The only continent without a desert?",
+    "correct_answer": "Europe"
+  },
+  {
+    "question": "The author of 'The Great Gatsby'?",
+    "correct_answer": "Fitzgerald"
+  },
+  {
+    "question": "The chemical symbol for gold?",
+    "correct_answer": "Au"
+  },
+  {
+    "question": "The first element on the periodic table?",
+    "correct_answer": "Hydrogen"
+  },
+  {
+    "question": "The name of the highest waterfall in the world?",
+    "correct_answer": "Angel"
+  },
+  {
+    "question": "The hardest mineral found in nature?",
+    "correct_answer": "Diamond"
+  },
+  {
+    "question": "The famous French cuisine known for its delicate pastries?",
+    "correct_answer": "Patisserie"
+  },
+  {
+    "question": "The largest city in Australia by population?",
+    "correct_answer": "Sydney"
+  },
+  {
+    "question": "The smallest unit of matter?",
+    "correct_answer": "Atom"
+  },
+  {
+    "question": "The primary ingredient in traditional Italian pizza dough?",
+    "correct_answer": "Flour"
+  },
+  {
+    "question": "The capital of Germany?",
+    "correct_answer": "Berlin"
+  },
+  {
+    "question": "The chemical symbol for neon?",
+    "correct_answer": "Ne"
+  },
+  {
+    "question": "The largest species of bear?",
+    "correct_answer": "Polar"
+  },
+  {
+    "question": "The element with the symbol 'He'?",
+    "correct_answer": "Helium"
+  },
+  {
+    "question": "The famous Roman gladiator known for his rebellion?",
+    "correct_answer": "Spartacus"
+  },
+  {
+    "question": "The largest lake in Africa?",
+    "correct_answer": "Victoria"
+  },
+  {
+    "question": "The most common element in the universe?",
+    "correct_answer": "Hydrogen"
+  },
+  {
+    "question": "The name of the galaxy that contains Earth?",
+    "correct_answer": "Milky"
+  },
+  {
+    "question": "The capital city of Thailand?",
+    "correct_answer": "Bangkok"
+  },
+  {
+    "question": "The type of bear native to China?",
+    "correct_answer": "Panda"
+  },
+  {
+    "question": "The chemical symbol for chlorine?",
+    "correct_answer": "Cl"
+  },
+  {
+    "question": "The only mammal capable of true flight?",
+    "correct_answer": "Bat"
+  },
+  {
+    "question": "The largest island country in the world?",
+    "correct_answer": "Indonesia"
+  },
+  {
+    "question": "The most abundant metal in the Earth's crust?",
+    "correct_answer": "Aluminum"
+  },
+  {
+    "question": "The capital of South Korea?",
+    "correct_answer": "Seoul"
+  },
+  {
+    "question": "The name of the famous ancient Greek temple in Athens?",
+    "correct_answer": "Parthenon"
+  },
+  {
+    "question": "The famous chocolate brand known for its 'Kisses'?",
+    "correct_answer": "Hershey's"
+  },
+  {
+    "question": "The chemical symbol for zinc?",
+    "correct_answer": "Zn"
+  },
+  {
+    "question": "The capital city of Mexico?",
+    "correct_answer": "Mexico City"
+  },
+  {
+    "question": "The famous artist who painted the 'Last Supper'?",
+    "correct_answer": "Leonardo"
+  },
+  {
+    "question": "The largest city in Brazil?",
+    "correct_answer": "São Paulo"
+  },
+  {
+    "question": "The type of tree that produces acorns?",
+    "correct_answer": "Oak"
+  },
+  {
+    "question": "The largest country in Africa by land area?",
+    "correct_answer": "Algeria"
+  },
+  {
+    "question": "The famous scientist known for his theory of relativity?",
+    "correct_answer": "Einstein"
+  },
+  {
+    "question": "The chemical symbol for calcium?",
+    "correct_answer": "Ca"
+  },
+  {
+    "question": "The most populous city in the world?",
+    "correct_answer": "Tokyo"
+  },
+  {
+    "question": "The only metal that is liquid at room temperature?",
+    "correct_answer": "Mercury"
+  },
+  {
+    "question": "The name of the pyramid structure in Mexico's Yucatán Peninsula?",
+    "correct_answer": "Chichen"
+  },
+  {
+    "question": "The currency used in Australia?",
+    "correct_answer": "Dollar"
+  },
+  {
+    "question": "The famous British scientist known for his laws of motion?",
+    "correct_answer": "Newton"
+  },
+  {
+    "question": "The capital city of Argentina?",
+    "correct_answer": "Buenos Aires"
+  },
+  { "question": "A type of coffee known for its acidity.", "correct_answer": "Espresso" },
+  { "question": "A type of beer known for its bitterness.", "correct_answer": "IPA" },
+  { "question": "A type of pasta known for its spiral shape.", "correct_answer": "Fusilli" },
+  { "question": "A type of fabric known for its softness.", "correct_answer": "Cashmere" },
+  { "question": "An animal known for its speed.", "correct_answer": "Cheetah" },
+  { "question": "A bird known for its beautiful song.", "correct_answer": "Nightingale" },
+  { "question": "A fruit that grows in clusters.", "correct_answer": "Grape" },
+  { "question": "A plant that produces cotton fibers.", "correct_answer": "Cotton" },
+  { "question": "A type of wood known for its strength.", "correct_answer": "Oak" },
+  { "question": "A mineral that sparkles like diamonds.", "correct_answer": "Quartz" },
+  { "question": "A type of fish known for its vibrant colors.", "correct_answer": "Angelfish" },
+  { "question": "A flower known for its sweet fragrance.", "correct_answer": "Jasmine" },
+  { "question": "A type of bread that's light and fluffy.", "correct_answer": "Brioche" },
+  { "question": "A type of cheese known for its sharp flavor.", "correct_answer": "Cheddar" },
+  { "question": "A type of wine known for its sweetness.", "correct_answer": "Moscato" },
+  { "question": "A type of chocolate known for its smooth texture.", "correct_answer": "Ganache" },
+  { "question": "A device used for measuring temperature.", "correct_answer": "Thermometer" },
+  {
+    "question": "A type of music genre characterized by electronic sounds.",
+    "correct_answer": "Electronic"
+  },
+  { "question": "A type of dance originating from Africa.", "correct_answer": "Salsa" },
+  { "question": "A type of food made from fermented milk.", "correct_answer": "Cheese" },
+  { "question": "A type of vehicle known for its speed.", "correct_answer": "Car" },
+  {
+    "question": "A type of software used for creating presentations.",
+    "correct_answer": "PowerPoint"
+  },
+  { "question": "A type of game played on a rectangular court.", "correct_answer": "Basketball" },
+  { "question": "A type of book that tells a story.", "correct_answer": "Novel" },
+  { "question": "A type of movie genre featuring superheroes.", "correct_answer": "Superhero" },
+  { "question": "A type of clothing worn on the feet.", "correct_answer": "Shoes" },
+  { "question": "A type of drink made from fermented grapes.", "correct_answer": "Wine" },
+  { "question": "A type of dessert made from eggs and sugar.", "correct_answer": "Custard" },
+  { "question": "A type of plant known for its medicinal properties.", "correct_answer": "Herbs" },
+  { "question": "A type of metal known for its malleability.", "correct_answer": "Aluminum" },
+  {
+    "question": "A type of bird known for its ability to fly backwards.",
+    "correct_answer": "Hummingbird"
+  },
+  { "question": "A type of fish known for its spiny skin.", "correct_answer": "Porcupine Fish" },
+  { "question": "A type of rock known for its hardness.", "correct_answer": "Granite" },
+  { "question": "A type of fruit known for its tart taste.", "correct_answer": "Lemon" },
+  { "question": "A type of vegetable known for its crunchiness.", "correct_answer": "Celery" },
+  { "question": "A type of spice known for its warmth.", "correct_answer": "Chili" },
+  { "question": "Capital of France?", "correct_answer": "Paris" },
+  { "question": "Largest planet in the solar system?", "correct_answer": "Jupiter" },
+  { "question": "Author of '1984'?", "correct_answer": "Orwell" },
+  { "question": "Chemical symbol for gold?", "correct_answer": "Au" },
+  { "question": "Main ingredient in guacamole?", "correct_answer": "Avocado" },
+  { "question": "Fastest land animal?", "correct_answer": "Cheetah" },
+  { "question": "Tallest mountain on Earth?", "correct_answer": "Everest" },
+  { "question": "Hottest planet in the solar system?", "correct_answer": "Venus" },
+  { "question": "Element with the symbol 'O'?", "correct_answer": "Oxygen" },
+  { "question": "Current U.S. President?", "correct_answer": "Biden" },
+  { "question": "Capital of Japan?", "correct_answer": "Tokyo" },
+  { "question": "First letter of the Greek alphabet?", "correct_answer": "Alpha" },
+  { "question": "Famous physicist known for relativity?", "correct_answer": "Einstein" },
+  { "question": "Smallest unit of life?", "correct_answer": "Cell" },
+  { "question": "Longest river in the world?", "correct_answer": "Nile" },
+  { "question": "Shakespearean play with a character named Iago?", "correct_answer": "Othello" },
+  { "question": "Largest ocean on Earth?", "correct_answer": "Pacific" },
+  { "question": "Pineapple’s botanical family?", "correct_answer": "Bromeliad" },
+  { "question": "Composer of 'The Magic Flute'?", "correct_answer": "Mozart" },
+  { "question": "Basic unit of currency in Japan?", "correct_answer": "Yen" },
+  { "question": "Nearest star to Earth?", "correct_answer": "Sun" },
+  { "question": "Smallest planet in the solar system?", "correct_answer": "Mercury" },
+  { "question": "Fourth planet from the Sun?", "correct_answer": "Mars" },
+  { "question": "First human to walk on the Moon?", "correct_answer": "Armstrong" },
+  { "question": "What is the outermost layer of the Sun called?", "correct_answer": "Corona" },
+  { "question": "Largest volcano in the solar system?", "correct_answer": "Olympus" },
+  { "question": "The most abundant element in the universe?", "correct_answer": "Hydrogen" },
+  { "question": "The force that keeps planets in orbit?", "correct_answer": "Gravity" },
+  { "question": "National sport of Japan?", "correct_answer": "Sumo" },
+  { "question": "Most common color of a basketball?", "correct_answer": "Orange" },
+  { "question": "What is the main event in the Tour de France?", "correct_answer": "Cycling" },
+  { "question": "Tennis player known as 'King of Clay'?", "correct_answer": "Nadal" },
+  { "question": "Olympic sport involving a mat and throws?", "correct_answer": "Judo" },
+  { "question": "The sport played on ice with pucks and sticks?", "correct_answer": "Hockey" },
+  { "question": "The term for a baseball hit out of the park?", "correct_answer": "Homerun" },
+  { "question": "Tallest building in the world?", "correct_answer": "Burj" },
+  { "question": "Author of 'The Hitchhiker’s Guide to the Galaxy'?", "correct_answer": "Adams" },
+  { "question": "Element with the atomic number 79?", "correct_answer": "Gold" },
+  { "question": "Famous space telescope launched in 1990?", "correct_answer": "Hubble" },
+  { "question": "The longest river in South America?", "correct_correct_answer": "Amazon" }
+]
